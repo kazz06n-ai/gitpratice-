@@ -1,0 +1,5 @@
+Working of git
+step1= change folder to repo (git init)
+step2= add to stagging (git add "filename")
+step3= save to local repo (git commit -m "message")
+step4= save local repo to remote repo
