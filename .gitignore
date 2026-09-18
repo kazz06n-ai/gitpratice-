@@ -1,1 +1,4 @@
 n1.txt
+*.cpp
+.vscode/
+!node/l1.txt
